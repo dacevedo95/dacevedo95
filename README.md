@@ -1,5 +1,8 @@
 ![Hi, I'm David Acevedo](https://i.imgur.com/5Ec7W7x.png)
 
+Hey there 👋</br>
+
+I'm David, a native iOS and Full Stack Software Engineer. I make it a priority to create Web and Mobile Apps with great UX/UI, that run with optimal speed and memory. 
 <!--
 **dacevedo95/dacevedo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
