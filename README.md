@@ -1,4 +1,4 @@
-![Hi, I'm David Acevedo](https://i.imgur.com/ddGZE1a.png)
+![Hi, I'm David Acevedo](https://i.imgur.com/5Ec7W7x.png)
 
 <!--
 **dacevedo95/dacevedo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
