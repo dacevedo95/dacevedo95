@@ -2,7 +2,7 @@
 
 Hey there 👋</br>
 
-I'm David, a native iOS and Full Stack Software Engineer. I make it a priority to create Web and Mobile Apps with great UX/UI, that run with optimal speed and memory. 
+I'm David, a native iOS and Full Stack Software Engineer. I make it a priority to create Web and Mobile apps with great UX/UI, that run fast and efficiently! 
 <!--
 **dacevedo95/dacevedo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
